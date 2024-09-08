@@ -1,0 +1,18 @@
+h1{
+    font-size: 30px;
+}
+<!-- h1 -> selector
+ font-size -> property 
+ 30 px -> value 
+ -->
+ color -> forground
+
+ id -> uniqe ->#
+ class -> same category -> .
+
+group selector 
+ h1,h2{
+    color:red;
+}
+
+decent 
